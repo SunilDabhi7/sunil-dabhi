@@ -33,9 +33,14 @@
     font-size: 12px;
     margin-top: 10px;
   }
+  .right-main {
+    width: 100%;
+    height: auto;
+  }
   .right-main img {
-    width: 70vw;
+    width: 80vw;
     height: 80vh;
+    margin-left: 70px;
   }
 
   /* Footer */
