@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sunil-dabhi/static/css/main.76224ca9.css",
+    "main.css": "/sunil-dabhi/static/css/main.ed731200.css",
     "main.js": "/sunil-dabhi/static/js/main.8415818f.js",
     "index.html": "/sunil-dabhi/index.html",
-    "main.76224ca9.css.map": "/sunil-dabhi/static/css/main.76224ca9.css.map",
+    "main.ed731200.css.map": "/sunil-dabhi/static/css/main.ed731200.css.map",
     "main.8415818f.js.map": "/sunil-dabhi/static/js/main.8415818f.js.map"
   },
   "entrypoints": [
-    "static/css/main.76224ca9.css",
+    "static/css/main.ed731200.css",
     "static/js/main.8415818f.js"
   ]
 }
